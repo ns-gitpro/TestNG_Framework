@@ -1,0 +1,15 @@
+<testData>
+	<credentials>
+   		<AppURL>https://amazon.com/</AppURL>
+		<UserID1>nikhil.singh@cgiar.org</UserID1>
+		<Password></Password>
+		<LoginType_CGIAR>CGIAR</LoginType_CGIAR>
+		<LoginType_IRRI>IRRI</LoginType_IRRI>
+		<LoginType_CIMMYT>CIMMYT</LoginType_CIMMYT>
+	</credentials>
+	
+   	<Data>
+		<Data_1>0011088212</Data_1>
+		<Data_2>0011088212</Data_2>
+ 	</Data> 
+ </testData>
